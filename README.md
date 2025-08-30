@@ -1,18 +1,18 @@
-<h1 align="center">Hola 👋, soy Facundo Gorlero ✨</h1>
+<h1 align="center">Hola 👋, soy Facundo Gorlero </h1>
 
 ---
 
 ## Sobre mí
-💻 Estudiante de **Desarrollo de Software**  
+💻 Estudiante de **Desarrollo de Software**   
 🚀 Apasionado por la **programación web y backend**  
-📚 Actualmente aprendiendo y mejorando en **Node.js, Docker y Bases de Datos**  
+📚 Actualmente aprendiendo y mejorando en **Node.js, Python, Java y Bases de Datos**  
 🎯 Objetivo: Convertirme en **Full Stack Developer**  
 
 ---
 
 ## 🛠️ Tecnologías conocidas
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,js,python,mysql,mongodb,html,css,docker,vscode,eclipse,github,git,nodejs" />
+  <img src="https://skillicons.dev/icons?i=java,js,python,mysql,mongodb,html,css,docker,vscode,eclipse,github,git,nodejs,aws" />
 </p>
 
 ---
