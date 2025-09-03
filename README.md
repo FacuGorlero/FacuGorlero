@@ -1,4 +1,4 @@
-<h1 align="center">Hola 👋, soy Facundo Gorlero </h1>
+<h1 align="center">Facundo Gorlero </h1>
 
 ---
 
