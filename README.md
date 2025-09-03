@@ -4,8 +4,7 @@
 
 ## Sobre mí
 💻 Estudiante de **Desarrollo de Software**   
-🚀 Apasionado por la **programación web y backend**  
-📚 Actualmente aprendiendo y mejorando en **Node.js, Python, Java y Bases de Datos**  
+📚 Actualmente aprendiendo y mejorando en **Node.js, Python, Java, Javascript y Bases de Datos**  
 🎯 Objetivo: Convertirme en **Full Stack Developer**  
 
 ---
